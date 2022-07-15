@@ -2,11 +2,11 @@
 
 make_format-nvdla-rootfs.sh --- 此脚本用于对外部发布， 用于帮助客户生成启动 tf 卡。
 
-hifive-unleashed-vfat.part      --- linux 内核等, ./work/
+starfive-visionfive2-vfat.part      --- linux 内核等, ./work/
 
 rootfs.ext4  --- rootfs 文件系统烧录文件, ./work/buildroot_rootfs/images/
 
-u-boot.bin  ---  u-boot 烧录镜像, ./work/HiFive_U-Boot/
+visionfive2_fw_payload.img  ---  u-boot 烧录镜像, ./work/
 
 
 
